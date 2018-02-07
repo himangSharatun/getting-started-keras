@@ -1,2 +1,6 @@
-classifier/*
+classifier/classifier.json
+classifier/encoder.npy
+classifier/weights.h5
 vocabulary.json
+.DS_Store
+*.pyc
